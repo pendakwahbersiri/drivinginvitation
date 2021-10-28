@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>❌❌ INVITATION ❌❌</title>
+
+<meta charset="UTF-8">
+	</head>
+	<body>
+	<script>
+		alert("Assalamualaikum Hanie")
+		alert("You're invited to have the 6th Driving Lesson")
+		alert("It will be on 29th October 2021")
+		alert("Starting from 4:30 pm to 6:00 pm")
+		alert("If you are free, please reply with - 😆")
+		alert("If you are not, please reply with - 😢")
+		alert("Your reply and respond is important")
+		alert("Thank you and have a nice day ☺️")
+	</script>
+	</body>
+    
+</html>
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <h2>hi hanie hehe</h2>
+        <p>saya pun pandai guna html</p>
+        
+        <img src="hanie.jfif" alt="hanie" style="width:600px;height:500px;">
+        
+        </body>
+</html>
